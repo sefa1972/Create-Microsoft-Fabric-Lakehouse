@@ -1,4 +1,4 @@
-Microsoft Fabric - Lakehouse Creation 
+### Microsoft Fabric - Lakehouse Creation 
 This project demonstrates how to create and explore a Lakehouse in Microsoft Fabric, combining the flexibility of a data lake with the query capabilities of a data warehouse.
 
 ### Overview
