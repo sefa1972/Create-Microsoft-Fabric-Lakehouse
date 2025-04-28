@@ -50,3 +50,7 @@ Fabric provides seamless integration between data storage, processing, and visua
 ### Clean-Up
 After completing the lab, remember to remove the workspace to avoid unnecessary resource usage.
 
+### 👤 Author >> Sefa Öztürk
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
